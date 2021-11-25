@@ -53,7 +53,6 @@
 <br/>
 <br/>
 
-[![time stats](https://github-readme-stats.vercel.app/api/wakatime?username=guillermoFragachan)](https://github.com/guillermoFragachan/github-readme-stats)
 
 
 
