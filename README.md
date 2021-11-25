@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Delivery App ]()**
+- 🔭 I’m currently working on a **[Delivery App ]()**
 
 - 🌱 I’m currently learning **Redux and Typescript**
 
