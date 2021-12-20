@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Redux and Typescript**
 
-- 👨‍💻 Last Project **[LinkedIn clon](https://linked-in-fe.vercel.app/)**
+- 👨‍💻 Last Project **[Spotify clon](https://spotify-fe.vercel.app/)**
 
 - 📫 How to reach me **guillefragachan@gmail.com**
 
