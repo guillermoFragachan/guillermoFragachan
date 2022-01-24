@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Delivery App ]()**
+- 🔭 I’m currently working on a **[Lottery DApp ]()**
 
-- 🌱 I’m currently learning **Redux and Typescript**
+- 🌱 I’m currently learning **Truffle, web3 and Solidity**
 
 - 👨‍💻 Last Project **[Spotify clon](https://spotify-fe.vercel.app/)**
 
